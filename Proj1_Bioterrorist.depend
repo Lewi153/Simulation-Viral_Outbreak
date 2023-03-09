@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1677600246 source:c:\users\lewis\desktop\cs 361\project 1\proj1_bioterrorist\src\mixgroup.cpp
+	"mixGroup.h"
+	<list>
+	<iostream>
+	<random>
+	<ctime>
+	<cmath>
+
+1677430839 c:\users\lewis\desktop\cs 361\project 1\proj1_bioterrorist\include\mixgroup.h
+	"person.h"
+	<iostream>
+	<list>
+	<random>
+	<ctime>
+
+1677598058 c:\users\lewis\desktop\cs 361\project 1\proj1_bioterrorist\include\person.h
+	<iostream>
+	<list>
+	<random>
+	<ctime>
+
+1677598074 source:c:\users\lewis\desktop\cs 361\project 1\proj1_bioterrorist\src\person.cpp
+	"person.h"
+	<list>
+	<random>
+	<ctime>
+
+1677601725 source:c:\users\lewis\desktop\cs 361\project 1\proj1_bioterrorist\main.cpp
+	"person.h"
+	"mixGroup.h"
+	<iostream>
+	<list>
+	<random>
+	<ctime>
+	<cmath>
+	<fstream>
+
+1675352147 source:c:\users\lewis\desktop\project 1_test\proj1_bioterrorist\src\mixgroup.cpp
+	"mixGroup.h"
+
+1675386824 c:\users\lewis\desktop\project 1_test\proj1_bioterrorist\include\mixgroup.h
+	"person.h"
+	<iostream>
+	<list>
+
+1675362975 c:\users\lewis\desktop\project 1_test\proj1_bioterrorist\include\person.h
+	<iostream>
+	<string>
+	<list>
+
+1675362988 source:c:\users\lewis\desktop\project 1_test\proj1_bioterrorist\src\person.cpp
+	"person.h"
+	<string>
+	<list>
+
+1676054550 source:c:\users\lewis\desktop\proj1_bioterrorist_test\src\mixgroup.cpp
+	"mixGroup.h"
+
+1675439712 c:\users\lewis\desktop\proj1_bioterrorist_test\include\mixgroup.h
+	"person.h"
+	<iostream>
+	<list>
+
+1676040924 c:\users\lewis\desktop\proj1_bioterrorist_test\include\person.h
+	<iostream>
+	<string>
+	<list>
+
+1676040836 source:c:\users\lewis\desktop\proj1_bioterrorist_test\src\person.cpp
+	"person.h"
+	<string>
+	<list>
+
+1676053905 source:c:\users\lewis\desktop\proj1_bioterrorist_test\main.cpp
+	"person.h"
+	"mixGroup.h"
+	<iostream>
+	<string>
+	<list>
+	<random>
+	<ctime>
+
